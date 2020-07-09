@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I’m a Data Science student at The Chinese University of Hong Kong, Shenzhen with experience in Python and R programming.
+I specialize in data wrangling, machine learning, exploratory analysis, and data visualizations.
+I love working on projects together, so feel free to reach out for collaborations!
+
 <!--
 **richardcsuwandi/richardcsuwandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
