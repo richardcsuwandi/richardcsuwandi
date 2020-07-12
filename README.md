@@ -1,3 +1,5 @@
+![Header](https://raw.githubusercontent.com/richardcsuwandi/richardcsuwandi.github.io/master/images/black-header.png)
+
 ### Hi there 👋
 
 - 🌱 I’m currently learning Data Science at The Chinese University of Hong Kong, Shenzhen
