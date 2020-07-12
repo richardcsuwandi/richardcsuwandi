@@ -1,4 +1,4 @@
-![Header](https://github.com/richardcsuwandi/richardcsuwandi.github.io/blob/master/images/black-header-edited.png?raw=true)
+![Header](https://github.com/richardcsuwandi/richardcsuwandi.github.io/blob/master/images/black-header-cut.png?raw=true)
 
 ### Hi there 👋
 - 🌱 I’m currently learning Data Science at The Chinese University of Hong Kong, Shenzhen
