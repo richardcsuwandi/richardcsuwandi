@@ -2,7 +2,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Data Science at The Chinese University of Hong Kong, Shenzhen
 - 👯 I’m looking to collaborate on Data Science and Machine Learning projects
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/richardcsuwandi), [Email](mailto:richardcsuwandi@gmail.com)
+- 📫 How to reach me: [Email](mailto:richardcsuwandi@gmail.com), [LinkedIn](https://www.linkedin.com/in/richardcsuwandi)
 - ⚡ Fun fact: I count from zero, not one
 
 <!--
