@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science at The Chinese University of Hong Kong, Shenzhen
 - 👯 I’m looking to collaborate on Data Science and Machine Learning projects
 - 📫 How to reach me: [![Email](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/email-16x16.png?raw=true)](mailto:richardcsuwandi@gmail.com)
-                      [![LinkedIn](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-16x16.png?raw=true)](https://www.linkedin.com/in/richardcsuwandi)
+                      [![LinkedIn](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-24x24.png?raw=true)](https://www.linkedin.com/in/richardcsuwandi)
 - ⚡ Fun fact: I count from zero, not one
 
 <!--
