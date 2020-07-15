@@ -7,6 +7,8 @@
                       [![Twitter](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-16x16.png?raw=true)](https://www.twitter.com/richardcsuwandi)
 - ⚡ Fun fact: I count from zero, not one
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=richardcsuwandi)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **richardcsuwandi/richardcsuwandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
