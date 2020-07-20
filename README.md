@@ -7,6 +7,8 @@
                       [![Twitter](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-16x16.png?raw=true)](https://www.twitter.com/richardcsuwandi)
 - ⚡ Fun fact: I count from zero, not one
 
+Check out my first LinkedIn article on the ["7 Habits of an Effective Data Scientist"](https://www.linkedin.com/pulse/7-habits-effective-data-scientist-richard-cornelius-suwandi/)
+
 <!--
 **richardcsuwandi/richardcsuwandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
