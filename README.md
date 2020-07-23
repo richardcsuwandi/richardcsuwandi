@@ -9,8 +9,6 @@
 
 - ⚡ Fun fact: I count from zero, not one
 
-Check out my first LinkedIn article on the ["7 Habits of an Effective Data Scientist"](https://www.linkedin.com/pulse/7-habits-effective-data-scientist-richard-cornelius-suwandi/)
-
 <!--
 **richardcsuwandi/richardcsuwandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
