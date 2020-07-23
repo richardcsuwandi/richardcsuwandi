@@ -8,7 +8,6 @@
                       [![Medium](https://raw.githubusercontent.com/richardcsuwandi/richardcsuwandi.github.io/master/images/favicons/medium-16x16.png)](https://www.medium.com/@richardcsuwandi)
 
 - ⚡ Fun fact: I count from zero, not one
-
 <!--
 **richardcsuwandi/richardcsuwandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
