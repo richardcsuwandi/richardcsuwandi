@@ -2,6 +2,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Data Science at The Chinese University of Hong Kong, Shenzhen
 - 👯 I’m looking to collaborate on Data Science and Machine Learning projects
+- 🔭 I’m currently working on writing more articles on [Medium](https://www.medium.com/@richardcsuwandi)
 - 📫 How to reach me: [![Email](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/email-16x16.png?raw=true)](mailto:richardcsuwandi@gmail.com)
                       [![LinkedIn](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-16x16.png?raw=true)](https://www.linkedin.com/in/richardcsuwandi)
                       [![Twitter](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-16x16.png?raw=true)](https://www.twitter.com/richardcsuwandi)
@@ -13,7 +14,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
