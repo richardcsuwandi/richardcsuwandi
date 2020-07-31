@@ -10,9 +10,10 @@
 
 - ⚡ Fun fact: I count from zero, not one
 
+```js
 <div class="github-card" data-user="richardcsuwandi" data-repo="chinese-calligraphy-classifier"></div>
 <script src="https://cdn.jsdelivr.net/gh/lepture/github-cards@latest/jsdelivr/widget.js"></script>
-
+```
 
 <!--
 **richardcsuwandi/richardcsuwandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
