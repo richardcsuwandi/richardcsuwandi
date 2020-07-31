@@ -11,7 +11,6 @@
 - ⚡ Fun fact: I count from zero, not one
 
 Check out my latest project:
-<!-- head -->
 <script src="https://tarptaeya.github.io/repo-card/repo-card.js"></script>
 <div class="repo-card" data-repo="richardcsuwandi/chinese-calligraphy-classifier"></div>
 
