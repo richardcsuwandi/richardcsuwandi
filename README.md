@@ -11,8 +11,8 @@
 - ⚡ Fun fact: I count from zero, not one
 
 Check out my latest project:
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/richardcsuwandi/chinese-calligraphy-classifier)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=richardcsuwandi&repo=chinese-calligraphy-classifier)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **richardcsuwandi/richardcsuwandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
