@@ -10,8 +10,9 @@
 
 - ⚡ Fun fact: I count from zero, not one
 
-<div class="github-card" data-user="richardcsuwandi" data-repo="chinese-calligraphy-classifier"></div>
-<script src="https://cdn.jsdelivr.net/gh/lepture/github-cards@latest/jsdelivr/widget.js"></script>
+Check out my latest project:
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/richardcsuwandi/chinese-calligraphy-classifier)
+
 
 <!--
 **richardcsuwandi/richardcsuwandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
