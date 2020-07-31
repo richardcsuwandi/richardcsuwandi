@@ -10,11 +10,19 @@
 
 - ⚡ Fun fact: I count from zero, not one
 
-Check out my latest project:
+Check out my latest projects:
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=richardcsuwandi&repo=chinese-calligraphy-classifier" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/??username=richardcsuwandi&repo=img-enhancer-and-detector" />
+</a>
+
+<!--
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=richardcsuwandi&repo=chinese-calligraphy-classifier)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardcsuwandi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **richardcsuwandi/richardcsuwandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
