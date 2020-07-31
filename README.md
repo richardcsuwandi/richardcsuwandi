@@ -9,12 +9,9 @@
                       [![Medium](https://raw.githubusercontent.com/richardcsuwandi/richardcsuwandi.github.io/master/images/favicons/medium-16x16.png)](https://www.medium.com/@richardcsuwandi)
 
 - ⚡ Fun fact: I count from zero, not one
-<!-- head -->
-<script src="https://tarptaeya.github.io/repo-card/repo-card.js"></script>
 
-
-<!-- inside body, where you want to create the card -->
-<div class="repo-card" data-repo="richardcsuwandi/chinese-calligraphy-classifier"></div>
+<div class="github-card" data-user="richardcsuwandi" data-repo="chinese-calligraphy-classifier"></div>
+<script src="https://cdn.jsdelivr.net/gh/lepture/github-cards@latest/jsdelivr/widget.js"></script>
 
 
 <!--
