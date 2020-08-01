@@ -30,3 +30,27 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
+
+```python
+class Richard:
+
+    def __init__(self):
+        self.username = 'richardcsuwandi'
+        self.name = 'Richard Cornelius Suwandi'
+        self.website = 'https://richardcsuwandi.github.io'
+        self.linkedin = 'https://linkedin.com/in/richardcsuwandi'
+        self.twitter = '@richardcsuwandi'
+        
+        self.code = {
+            'languages': ['Python', 'R', 'SQL', 'MATLAB', 'C++', 'Bash'],
+            'eda': ['NumPy', 'Pandas', 'Matplotlib', 'Seaborn'],
+            'tools': ['Git', 'GitHub', 'MS Office'],
+            'IDE': ['VS Code', 'Jupyter Notebook', 'RStudio']
+        
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = Richard()
+```
