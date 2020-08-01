@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-
+<!--
 ```python
 class Richard:
 
@@ -51,7 +51,7 @@ class Richard:
     def __str__(self):
         return self.name
 
-
 if __name__ == '__main__':
     me = Richard()
 ```
+-->
