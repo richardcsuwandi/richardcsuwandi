@@ -8,7 +8,7 @@
                       [![Twitter](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-16x16.png?raw=true)](https://www.twitter.com/richardcsuwandi)
                       [![Medium](https://raw.githubusercontent.com/richardcsuwandi/richardcsuwandi.github.io/master/images/favicons/medium-16x16.png)](https://www.medium.com/@richardcsuwandi)
 
-- ⚡ Fun fact: I count from zero, not one
+- ⚡ Fun fact: My trust lies in data
 
 Check out my latest projects:
 
