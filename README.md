@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Data Science at CUHK-Shenzhen**
 
-- 👨‍💻 All of my projects are available at [richardcsuwandi.github.io](richardcsuwandi.github.io)
+- 👨‍💻 All of my projects are available at [richardcsuwandi.github.io](https://www.richardcsuwandi.github.io)
 
-- 📝 I regulary write articles on [medium.com/@richardcsuwandi](medium.com/@richardcsuwandi)
+- 📝 I regulary write articles on [Medium](https://www.medium.com/@richardcsuwandi)
 
 - 💬 Ask me about **Python, R, Data Science, Machine Learning, Deep Learning**
 
