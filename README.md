@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Richard Cornelius Suwandi</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Richard Cornelius Suwandi</h1>
 <h3 align="center">An aspiring data scientist and machine learning practitioner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardcsuwandi" alt="richardcsuwandi" /> </p>
