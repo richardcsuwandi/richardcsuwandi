@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: **My trust lies in data**
 
-📕 **Latest Blog Posts**
+📕 **Latest Medium Articles**
 <!-- BLOG-POST-LIST:START -->
 - [Why AI is So Smart and Yet So Dumb?](https://towardsdatascience.com/why-ai-is-so-smart-and-yet-so-dumb-c156cc87fafa?source=rss-727a207951a0------2)
 - [6 Magic Commands That Every Data Wizard Should Know](https://towardsdatascience.com/6-magic-commands-that-every-data-wizard-should-know-87eaf9e2567c?source=rss-727a207951a0------2)
