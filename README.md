@@ -65,7 +65,7 @@
 <br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary><h4>:zap: GitHub Stats</h4></summary>
 
   <img align="left" alt="richardcsuwandi's Github Stats" src="https://github-readme-stats.richardcsuwandi.vercel.app/api?username=richardcsuwandi&show_icons=true&hide_border=true" />
 
