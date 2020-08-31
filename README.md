@@ -16,8 +16,9 @@
 🔗 **Connect With Me:**
 
 [<img align="left" alt="richardcsuwandi.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
-[<img align="left" alt="linkedin.com/richardcsuwandi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="twitter.com/richardcsuwandi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="linkedin.com/richardcsuwandi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="medium.com/@richardcsuwandi" width="22px" src="http://simpleicons.org/icons/medium.svg" />][Medium]
 [<img align="left" alt="richardcsuwandi@gmail.com" width="22px" src="http://simpleicons.org/icons/gmail.svg" />][Email]
 
 <br />
@@ -71,6 +72,7 @@
 </details>
 
 [Website]: https://richardcsuwandi.github.io
-[LinkedIn]: https://linkedin.com/in/richardcsuwandi
 [Twitter]: https://twitter.com/richardcsuwandi
+[LinkedIn]: https://linkedin.com/in/richardcsuwandi
+[Medium]: https://medium.com/@richardcsuwandi
 [Email]: mailto:richardcsuwandi@gmail.com
