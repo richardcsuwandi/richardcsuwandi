@@ -17,9 +17,9 @@
 
 **Connect With Me:**
 
-[<img align="left" alt="richardcsuwandi.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Portfolio Website]
+[<img align="left" alt="richardcsuwandi.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
+[<img align="left" alt="linkedin.com/richardcsuwandi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="twitter.com/richardcsuwandi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="linkedin.com/richardcsuwandi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 
 <br />
 
@@ -39,7 +39,6 @@
 <br />
 <br />
 
----
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -52,3 +51,7 @@
 <a href="https://linkedin.com/in/richardcsuwandi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="richardcsuwandi" height="30" width="30" /></a>
 <a href="https://medium.com/@richardcsuwandi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@richardcsuwandi" height="30" width="30" /></a>
 </p>
+
+[Website]: https://richardcsuwandi.github.io
+[LinkedIn]: https://linkedin.com/in/richardcsuwandi
+[Twitter]: https://twitter.com/richardcsuwandi
