@@ -22,6 +22,7 @@
 [<img align="left" alt="twitter.com/richardcsuwandi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 
 <br />
+<br />
 
 📕 **Latest Medium Articles**
 <!-- BLOG-POST-LIST:START -->
@@ -45,12 +46,6 @@
   <img align="left" alt="richardcsuwandi's Github Stats" src="https://github-readme-stats.richardcsuwandi.vercel.app/api?username=richardcsuwandi&show_icons=true&hide_border=true" />
 
 </details>
-
-<p align="center">
-<a href="https://twitter.com/richardcsuwandi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="richardcsuwandi" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/richardcsuwandi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="richardcsuwandi" height="30" width="30" /></a>
-<a href="https://medium.com/@richardcsuwandi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@richardcsuwandi" height="30" width="30" /></a>
-</p>
 
 [Website]: https://richardcsuwandi.github.io
 [LinkedIn]: https://linkedin.com/in/richardcsuwandi
