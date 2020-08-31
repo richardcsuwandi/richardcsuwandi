@@ -3,17 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardcsuwandi" alt="richardcsuwandi" /> </p>
 
-- 🌱 I’m currently learning **Data Science at CUHK-Shenzhen**
+- 🌱 I’m currently learning Data Science at CUHK-Shenzhen
 
 - 👨‍💻 All of my projects are available at [richardcsuwandi.github.io](https://richardcsuwandi.github.io)
 
 - 📝 I regulary write articles on [Medium](https://www.medium.com/@richardcsuwandi)
 
-- 💬 Ask me about: **Python, R, Data Science, Machine Learning**
+- 💬 Ask me about: Python, R, Data Science, Machine Learning
 
-- 📫 How to reach me: **richardcsuwandi@gmail.com**
+- 📫 How to reach me: richardcsuwandi@gmail.com**
 
 - ⚡ Fun fact: **I love to play guitar and bass**
+
+**Connect With Me:**
+
+[<img align="left" alt="richardcsuwandi.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Portfolio Website]
+[<img align="left" alt="twitter.com/richardcsuwandi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="linkedin.com/richardcsuwandi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+
+<br />
 
 📕 **Latest Medium Articles**
 <!-- BLOG-POST-LIST:START -->
