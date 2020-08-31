@@ -24,15 +24,6 @@
 <br />
 <br />
 
-📕 **Latest Medium Articles**
-<!-- BLOG-POST-LIST:START -->
-- [Why AI is So Smart and Yet So Dumb?](https://towardsdatascience.com/why-ai-is-so-smart-and-yet-so-dumb-c156cc87fafa?source=rss-727a207951a0------2)
-- [6 Magic Commands That Every Data Wizard Should Know](https://towardsdatascience.com/6-magic-commands-that-every-data-wizard-should-know-87eaf9e2567c?source=rss-727a207951a0------2)
-- [Data is the New Lego](https://towardsdatascience.com/data-is-the-new-lego-bc634cc8a795?source=rss-727a207951a0------2)
-- [I Taught My Computer to Classify Chinese Calligraphy Styles](https://towardsdatascience.com/i-taught-my-computer-to-classify-chinese-calligraphy-styles-4d0160478ce1?source=rss-727a207951a0------2)
-<!-- BLOG-POST-LIST:END -->
-➡️ [More articles...](https://medium.com/@richardcsuwandi)
-
 🛠️ **Languages and Tools**
 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="26" height="26"/> 
@@ -64,8 +55,17 @@
 <br />
 <br />
 
+📕 **Latest Medium Articles**
+<!-- BLOG-POST-LIST:START -->
+- [Why AI is So Smart and Yet So Dumb?](https://towardsdatascience.com/why-ai-is-so-smart-and-yet-so-dumb-c156cc87fafa?source=rss-727a207951a0------2)
+- [6 Magic Commands That Every Data Wizard Should Know](https://towardsdatascience.com/6-magic-commands-that-every-data-wizard-should-know-87eaf9e2567c?source=rss-727a207951a0------2)
+- [Data is the New Lego](https://towardsdatascience.com/data-is-the-new-lego-bc634cc8a795?source=rss-727a207951a0------2)
+- [I Taught My Computer to Classify Chinese Calligraphy Styles](https://towardsdatascience.com/i-taught-my-computer-to-classify-chinese-calligraphy-styles-4d0160478ce1?source=rss-727a207951a0------2)
+<!-- BLOG-POST-LIST:END -->
+➡️ [More articles...](https://medium.com/@richardcsuwandi)
+
 <details>
-  <summary><h4>:zap: GitHub Stats</h4></summary>
+  <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="richardcsuwandi's Github Stats" src="https://github-readme-stats.richardcsuwandi.vercel.app/api?username=richardcsuwandi&show_icons=true&hide_border=true" />
 
