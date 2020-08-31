@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Data Science at CUHK-Shenzhen
 
-- 👨‍💻 All of my projects are available at [richardcsuwandi.github.io](https://richardcsuwandi.github.io)
+- 💻 All of my projects are available at [richardcsuwandi.github.io](https://richardcsuwandi.github.io)
 
 - 📝 I regulary write articles on [Medium](https://www.medium.com/@richardcsuwandi)
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: I love to play guitar and bass
 
-**Connect With Me:**
+🔗 **Connect With Me:**
 
 [<img align="left" alt="richardcsuwandi.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
 [<img align="left" alt="linkedin.com/richardcsuwandi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
@@ -34,7 +34,7 @@
 <!-- BLOG-POST-LIST:END -->
 ➡️ [More articles...](https://medium.com/@richardcsuwandi)
 
-**Languages and Tools**
+🛠️ **Languages and Tools**
 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="26" height="26"/> 
 <img align="left" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="26" height="26"/> 
@@ -64,7 +64,6 @@
 <br />
 <br />
 <br />
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
