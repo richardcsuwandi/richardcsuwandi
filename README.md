@@ -40,7 +40,6 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="26" height="26"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="26" height="26"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="26" height="26"/> 
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="26" height="26"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="26" height="26"/> 
 <img align="left" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="26" height="26"/> 
 <img align="left" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="26" height="26"/> 
@@ -57,6 +56,7 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="26" height="26"/> 
 <img align="left" src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="26" height="26"/> 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" alt="scikit-learn" width="26" height="26"/> 
+<img align="left" src="https://pbs.twimg.com/profile_images/1234856290058428416/8lWJhqj1_400x400.jpg" alt="streamlit" width="26" height="26"/> 
 <img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="26" height="26"/></p>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="26" height="26"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="26" height="26"/>
