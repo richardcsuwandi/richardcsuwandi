@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 <h3 align="center">I'm Richard Cornelius Suwandi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardcsuwandi" alt="richardcsuwandi" /> </p>
@@ -54,7 +54,7 @@
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="26" height="26"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="26" height="26"/> 
 <img align="left" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="26" height="26"/> 
-<img align="left" src="https://r.analyticflow.com/en/cms/wp-content/themes/efprime_raf/images/feature_rlogo.png" alt="r" width="26" height="26"/> 
+<img align="left" src="https://new.library.arizona.edu/sites/default/files/styles/featured_image/public/featured_media/rprogramming.png?itok=tW_Lc4a8" alt="r" width="26" height="26"/> 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" alt="scikit-learn" width="26" height="26"/> 
 <img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="26" height="26"/></p>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="26" height="26"/>
