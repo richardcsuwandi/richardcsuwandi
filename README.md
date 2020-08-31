@@ -51,6 +51,7 @@
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="26" height="26"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26" height="26"/> 
 <img align="left" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="26" height="26"/> 
+<img align="left" src="https://camo.githubusercontent.com/5cb734f6fc37f645dc900e35559c60d91cc6b550/68747470733a2f2f6465762e70616e6461732e696f2f7374617469632f696d672f70616e6461732e737667" alt="pandas" width="26" height="26"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="26" height="26"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="26" height="26"/> 
 <img align="left" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="26" height="26"/> 
@@ -61,6 +62,8 @@
 
 <br />
 <br />
+<br />
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
