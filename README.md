@@ -37,7 +37,6 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="gitHub" width="26" height=26 />
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="26" height="26"/> 
 <img align="left" src="https://4.bp.blogspot.com/-BD3ZGiGy9Ms/WuJdYMbSh3I/AAAAAAACPrc/jePCk-BAX_g3_BED91p_zFgqDBJ4lR_JQCLcBGAs/s1600/jupyter.png" alt="jupyter" width="26" height="26"/> 
-<img align="left" src="https://www.linkedin.com/media-proxy/ext?w=330&h=330&hash=OM74rTgsWZ0khdfzY8uAqOKgzH8%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6rhRoOww4ysOCGpFu48UVSVofOAW__H3D0vsvTPyr2PNjcfbakoV0ScCNCnQAyf_nuTTQ" alt="keras" width="26" height="26"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26" height="26"/> 
 <img align="left" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="26" height="26"/> 
 <img align="left" src="http://simpleicons.org/icons/pandas.svg" alt="pandas" width="26" height="26"/> 
