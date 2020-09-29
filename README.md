@@ -5,7 +5,7 @@
 
 - 💻 All of my projects are available at [richardcsuwandi.github.io](https://richardcsuwandi.github.io)
 
-- 📝 I regulary write articles on [Medium](https://www.medium.com/@richardcsuwandi)
+- 📝 I regularly write articles on [Medium](https://www.medium.com/@richardcsuwandi)
 
 - 💬 Ask me about: Python, R, Data Science, Machine Learning
 
