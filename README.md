@@ -76,3 +76,4 @@
 [LinkedIn]: https://linkedin.com/in/richardcsuwandi
 [Medium]: https://medium.com/@richardcsuwandi
 [Email]: mailto:richardcsuwandi@gmail.com
+[Kaggle]: https://www.kaggle.com/richardcsuwandi
