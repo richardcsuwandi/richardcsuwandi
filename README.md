@@ -25,6 +25,7 @@
 <br />
 <br />
 
+<!--
 🛠️ **Languages and Tools**
 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="26" height="26"/> 
@@ -54,6 +55,7 @@
 <br />
 <br />
 <br />
+-->
 
 📕 **Latest Medium Articles**
 <!-- BLOG-POST-LIST:START -->
