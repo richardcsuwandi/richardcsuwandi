@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: richardcsuwandi@gmail.com
 
-- ⚡ Fun fact: I love to play guitar and bass
+- ⚡ Fun fact: I like to count from 0, not 1
 
 🔗 **Connect With Me:**
 
