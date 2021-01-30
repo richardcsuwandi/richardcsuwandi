@@ -25,37 +25,60 @@
 <br />
 <br />
 
-<!--
 🛠️ **Languages and Tools**
 
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="26" height="26"/> 
-<img align="left" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="26" height="26"/> 
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="26" height="26"/> 
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="26" height="26"/> 
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="26" height="26"/> 
-<img align="left" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="26" height="26"/> 
-<img align="left" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="26" height="26"/> 
-<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" height="26"/> 
-<img align="left" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="gitHub" width="26" height=26 />
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="26" height="26"/> 
-<img align="left" src="https://4.bp.blogspot.com/-BD3ZGiGy9Ms/WuJdYMbSh3I/AAAAAAACPrc/jePCk-BAX_g3_BED91p_zFgqDBJ4lR_JQCLcBGAs/s1600/jupyter.png" alt="jupyter" width="26" height="26"/> 
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26" height="26"/> 
-<img align="left" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="26" height="26"/> 
-<img align="left" src="http://simpleicons.org/icons/pandas.svg" alt="pandas" width="26" height="26"/> 
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="26" height="26"/> 
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="26" height="26"/> 
-<img align="left" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="26" height="26"/> 
-<img align="left" src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="26" height="26"/> 
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" alt="scikit-learn" width="26" height="26"/> 
-<img align="left" src="https://pbs.twimg.com/profile_images/1234856290058428416/8lWJhqj1_400x400.jpg" alt="streamlit" width="26" height="26"/> 
-<img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="26" height="26"/></p>
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="26" height="26"/>
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="26" height="26"/>
+### Languages
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&logoColor=white&color=9558B2)
+![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
 
-<br />
-<br />
-<br />
--->
+### Tools
+![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)
+![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/Code-Colab-informational?style=flat&logo=google-colab&logoColor=white&color=F4B400)
+![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
+
+### Frameworks   
+![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=FF6F00)
+![](https://img.shields.io/badge/Code-Keras-informational?style=flat&logo=Keras&logoColor=white&color=D00000)
+![](https://img.shields.io/badge/Code-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=EE4C2C)
+
+### Python libs
+![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
+![](https://img.shields.io/badge/Code-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
+![](https://img.shields.io/badge/Code-SciPy-informational?style=flat&logo=scipy&logoColor=white&color=8CAAE6)
+![](https://img.shields.io/badge/Code-ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=F7931E)
+
+### IDEs
+![](https://img.shields.io/badge/Code-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0078d7)
+![](https://img.shields.io/badge/Code-Atom-informational?style=flat&logo=atom&logoColor=white&color=66595C)
+![](https://img.shields.io/badge/Code-Vim-informational?style=flat&logo=vim&logoColor=white&color=019733)
+![](https://img.shields.io/badge/Code-RStudio-informational?style=flat&logo=rstudio&logoColor=white&color=75AADB)
+
+### Database systems and big data tools
+![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=003B57)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
+![](https://img.shields.io/badge/Apache-informational?style=flat&logo=apache&logoColor=white&color=D22128)
+![](https://img.shields.io/badge/ApacheSpark-informational?style=flat&logo=apache-spark&logoColor=white&color=E25A1C)
+
+### Cloud services
+![](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0089D6)
+![](https://img.shields.io/badge/GoogleCloud-informational?style=flat&logo=google-cloud&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
+
+### OS and shells
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
+![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
+
+### Others
+![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
+![](https://img.shields.io/badge/VirtualBox-informational?style=flat&logo=virtualbox&logoColor=white&color=183A61)
+![](https://img.shields.io/badge/Wolfram-informational?style=flat&logo=wolfram&logoColor=white&color=DD1100)
+![](https://img.shields.io/badge/Overleaf-informational?style=flat&logo=overleaf&logoColor=white&color=47A141)
 
 📕 **Latest Medium Articles**
 <!-- BLOG-POST-LIST:START -->
