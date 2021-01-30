@@ -45,11 +45,11 @@
 ![](https://img.shields.io/badge/Code-Vim-informational?style=flat&logo=vim&logoColor=white&color=019733)
 ![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
 ![](https://img.shields.io/badge/Overleaf-informational?style=flat&logo=overleaf&logoColor=white&color=47A141)
-![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
-![](https://img.shields.io/badge/Kaggle-informational?style=flat&logo=kaggle&logoColor=white&color=20BEFF)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420)
+![](https://img.shields.io/badge/Kaggle-informational?style=flat&logo=kaggle&logoColor=white&color=20BEFF)
+![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
 
 📕 **Latest Medium Articles**
 <!-- BLOG-POST-LIST:START -->
