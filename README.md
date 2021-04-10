@@ -21,7 +21,7 @@
 [<img align="left" alt="twitter.com/richardcsuwandi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 [<img align="left" alt="linkedin.com/richardcsuwandi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="medium.com/@richardcsuwandi" width="22px" src="http://simpleicons.org/icons/medium.svg" />][Medium]
-[<img align="left" alt="richardcsuwandi@gmail.com" width="22px" src="http://simpleicons.org/icons/gmail.svg" />][Email]
+[<img align="left" alt="richardcsuwandi@gmail.com" width="22px" src="http://simpleicons.org/icons/microsoftoutlook.svg" />][Email]
 [<img align="left" alt="https://www.kaggle.com/richardcsuwandi" width="22px" src="http://simpleicons.org/icons/kaggle.svg" />][Kaggle]
 
 <br />
