@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently studying Data Science at [CUHK-Shenzhen](https://cuhk.edu.cn)
 
+- 🔬 I'm also a research assistant at [CUHK-Shenzhen](https://cuhk.edu.cn) and [Shenzhen Research Institute of Big Data](http://www.sribd.cn/en)
+
+- 💬 My current research interests include recommender systems, federated learning, and privacy-preserving AI
+
 - 💻 All of my projects are available at [richardcsuwandi.github.io](https://richardcsuwandi.github.io)
 
 - 📝 I regularly write articles on [Medium](https://www.medium.com/@richardcsuwandi)
-
-- 💬 Ask me about: Python, R, Data Science, Machine Learning
-
-- 🔬 My current research interests include recommender systems, federated learning, and privacy-preserving AI.
 
 - 📫 How to reach me: richardsuwandi@link.cuhk.edu.cn
 
