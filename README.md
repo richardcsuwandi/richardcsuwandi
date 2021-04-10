@@ -9,7 +9,9 @@
 
 - 💬 Ask me about: Python, R, Data Science, Machine Learning
 
-- 📫 How to reach me: richardcsuwandi@gmail.com
+- 🔬 My current research interests include recommender systems, federated learning, and privacy-preserving AI.
+
+- 📫 How to reach me: richardsuwandi@link.cuhk.edu.cn
 
 - ⚡ Fun fact: I like to count from 0, not 1
 
@@ -71,5 +73,5 @@
 [Twitter]: https://twitter.com/richardcsuwandi
 [LinkedIn]: https://linkedin.com/in/richardcsuwandi
 [Medium]: https://medium.com/@richardcsuwandi
-[Email]: mailto:richardcsuwandi@gmail.com
+[Email]: mailto:richardsuwandi@link.cuhk.edu.cn
 [Kaggle]: https://www.kaggle.com/richardcsuwandi
