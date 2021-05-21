@@ -62,13 +62,6 @@
 <!-- BLOG-POST-LIST:END -->
 ➡️ [More articles...](https://medium.com/@richardcsuwandi)
 
-<details>
-  <summary>:zap: <b>GitHub Stats</b></summary>
-
-  <img align="left" alt="richardcsuwandi's Github Stats" src="https://github-readme-stats.richardcsuwandi.vercel.app/api?username=richardcsuwandi&show_icons=true&hide_border=true" />
-
-</details>
-
 [Website]: https://richardcsuwandi.github.io
 [Twitter]: https://twitter.com/richardcsuwandi
 [LinkedIn]: https://linkedin.com/in/richardcsuwandi
