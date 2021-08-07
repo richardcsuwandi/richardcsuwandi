@@ -5,7 +5,7 @@
 
 - 🔬 I'm also a research assistant at [CUHK-Shenzhen](https://cuhk.edu.cn) and [Shenzhen Research Institute of Big Data](http://www.sribd.cn/en)
 
-- 💬 My current research interests include recommender systems, federated learning, and privacy-preserving AI
+- 💬 My current research interests include recommender systems, federated learning, and signal processing
 
 - 💻 All of my projects are available at [richardcsuwandi.github.io](https://richardcsuwandi.github.io)
 
