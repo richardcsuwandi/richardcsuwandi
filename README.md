@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying Data Science at [CUHK-Shenzhen](https://cuhk.edu.cn)
 
-- 🔬 I'm also a research assistant at [CUHK-Shenzhen](https://cuhk.edu.cn) and [Shenzhen Research Institute of Big Data](http://www.sribd.cn/en)
+- 🔬 I'm also a research assistant at the Signal Processing and Optimization Lab of [CUHK-Shenzhen](https://cuhk.edu.cn)
 
 - 💬 My current research interests include recommender systems, federated learning, and signal processing
 
