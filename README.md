@@ -7,9 +7,7 @@
 
 - 💬 My current research interests include recommender systems, federated learning, and signal processing
 
-- 💻 All of my projects are available at [richardcsuwandi.github.io](https://richardcsuwandi.github.io)
-
-- 📝 I regularly write articles on [Medium](https://www.medium.com/@richardcsuwandi)
+- 📝 I regularly write articles on [Medium](https://www.medium.com/@richardcsuwandi) and my personal [blog](https://richardcsuwandi.github.io/blog)
 
 - 📫 How to reach me: richardsuwandi@link.cuhk.edu.cn
 
