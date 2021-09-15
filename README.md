@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently studying Data Science at [CUHK-Shenzhen](https://cuhk.edu.cn)
 
-- 🔬 I'm also a research assistant at the Signal Processing and Optimization Lab of [CUHK-Shenzhen](https://cuhk.edu.cn)
+- 🔬 I'm also affiliated with the School of Science and Engineering of [CUHK-Shenzhen](https://sse.cuhk.edu.cn) as a research assistant
 
-- 💬 My current research interests include recommender systems, federated learning, and signal processing
+- 💬 My current research interests include federated learning, Gaussian processes, and signal processing
 
 - 📝 I regularly write articles on [Medium](https://www.medium.com/@richardcsuwandi) and my personal [blog](https://richardcsuwandi.github.io/blog)
 
