@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying Data Science at [CUHK-Shenzhen](https://cuhk.edu.cn)
 
-- 🔬 I'm also affiliated with the School of Science and Engineering of [CUHK-Shenzhen](https://sse.cuhk.edu.cn) as a research assistant
+- 🔬 I'm also affiliated with the [School of Science and Engineering](https://sse.cuhk.edu.cn) of CUHK-Shenzhen as a research assistant
 
 - 💬 My current research interests include federated learning, Gaussian processes, and signal processing
 
