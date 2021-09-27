@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 <h3 align="center">I'm Richard Cornelius Suwandi</h3>
 
-- 🌱 I’m currently studying Data Science at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en)
+- 📚 I’m currently studying Data Science at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en)
 
 - 🔬 I'm also affiliated with the [School of Science and Engineering](https://sse.cuhk.edu.cn/en) of CUHK-Shenzhen as a research assistant
 
