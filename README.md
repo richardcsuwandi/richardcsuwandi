@@ -7,7 +7,7 @@
 
 - 💬 My current research interests include federated learning, Gaussian processes, and signal processing
 
-- 📝 I regularly write on [Medium](https://richardcsuwandi.medium.com) and my personal [blog](https://richardcsuwandi.github.io/blog) about data science, machine learning, and AI
+- 📝 I regularly write on [Medium](https://richardcsuwandi.medium.com) about topics related to data science, machine learning, and AI
 
 - 📫 How to reach me: richardsuwandi@link.cuhk.edu.cn
 
