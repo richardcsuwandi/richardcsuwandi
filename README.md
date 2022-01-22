@@ -1,9 +1,9 @@
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 <h3 align="center">I'm Richard Cornelius Suwandi</h3>
 
-- 📚 I’m currently studying Data Science at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en)
+- 📚 I am a junior student majoring in Statistics (with concentration in Data Science) at the [School of Data Science, CUHK-Shenzhen](https://sds.cuhk.edu.cn/en)
 
-- 🔬 I'm also affiliated with the [School of Science and Engineering](https://sse.cuhk.edu.cn/en) of CUHK-Shenzhen as a research assistant
+- 🔬 I am also affiliated with [CUHK-Shenzhen](https://cuhk.edu.cn/en) and [Shenzhen Research Institute of Big Data (SRIBD)](http://www.sribd.cn) as research assistants
 
 - 💬 My current research interests include federated learning, Gaussian processes, and signal processing
 
