@@ -5,7 +5,7 @@
 
 - 🔬 I am also affiliated with [CUHK-Shenzhen](https://cuhk.edu.cn/en) and [Shenzhen Research Institute of Big Data (SRIBD)](http://www.sribd.cn) as research assistants
 
-- 💬 My current research interests include federated learning, Gaussian processes, and signal processing
+- 💬 My current research interests include federated learning, distributed optimization, Gaussian processes, machine learning, and signal processing
 
 - 📝 I regularly write on [Medium](https://richardcsuwandi.medium.com) about topics related to data science, machine learning, and AI
 
