@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 <h3 align="center">I'm Richard Cornelius Suwandi</h3>
 
-- 📚 I am a junior student majoring in Statistics (with concentration in Data Science) at the [School of Data Science, CUHK-Shenzhen](https://sds.cuhk.edu.cn/en)
+- 📚 I am an undergraduate student majoring in Statistics (with concentration in Data Science) at the [School of Data Science, CUHK-Shenzhen](https://sds.cuhk.edu.cn/en)
 
 - 🔬 I am also affiliated with [CUHK-Shenzhen](https://cuhk.edu.cn/en) and [Shenzhen Research Institute of Big Data (SRIBD)](http://www.sribd.cn) as research assistants
 
