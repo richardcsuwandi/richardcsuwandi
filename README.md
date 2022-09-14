@@ -3,7 +3,7 @@
 
 - 📚 I am an undergraduate student majoring in Statistics (with concentration in Data Science) at the [School of Data Science, CUHK-Shenzhen](https://sds.cuhk.edu.cn/en)
 
-- 🔬 I am also affiliated with [CUHK-Shenzhen](https://cuhk.edu.cn/en) and [Shenzhen Research Institute of Big Data (SRIBD)](http://www.sribd.cn) as research assistants
+- 🔬 I am also affiliated with the Bayesian Learning & Signal Processing (BL&SP) Group of [CUHK-Shenzhen](https://cuhk.edu.cn/en) and [Shenzhen Research Institute of Big Data (SRIBD)](http://www.sribd.cn) as research assistants
 
 - 💬 My current research interests include federated learning, distributed optimization, Gaussian processes, machine learning, and signal processing
 
