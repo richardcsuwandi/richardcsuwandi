@@ -1,11 +1,11 @@
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 <h3 align="center">I'm Richard Cornelius Suwandi</h3>
 
-- 📚 I am an undergraduate student majoring in Statistics (with concentration in Data Science) at the [School of Data Science, CUHK-Shenzhen](https://sds.cuhk.edu.cn/en)
+- 📚 I am an undergraduate student majoring in Statistics (with a concentration in Data Science) at the [School of Data Science, CUHK-Shenzhen](https://sds.cuhk.edu.cn/en)
 
-- 🔬 I am also affiliated with the [Bayesian Learning & Signal Processing (BL&SP) Group](https://blsp-group.github.io) of CUHK-Shenzhen and [Shenzhen Research Institute of Big Data (SRIBD)](http://www.sribd.cn) as research assistants
-
-- 💬 My current research interests include federated learning, distributed optimization, Gaussian processes, machine learning, and signal processing
+- 🔬 I am also a reserach assistant affiliated with the [Bayesian Learning & Signal Processing (BL&SP) Group](https://blsp-group.github.io) of CUHK-Shenzhen
+- 
+- 💬 My current research interests include fBayesian learning, distributed optimization, and privacy-preserving machine learning
 
 - 📝 I regularly write on [Medium](https://richardcsuwandi.medium.com) about topics related to data science, machine learning, and AI
 
