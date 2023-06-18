@@ -1,17 +1,15 @@
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 <h3 align="center">I'm Richard Cornelius Suwandi</h3>
 
-- 📚 I am an undergraduate student majoring in Statistics (with a concentration in Data Science) at the [School of Data Science, CUHK-Shenzhen](https://sds.cuhk.edu.cn/en)
+- 📚 I am currently pursuing my PhD in Computer and Information Engineering at the [School of Science and Engineering, CUHK-Shenzhen](https://sse.cuhk.edu.cn/en)
 
-- 🔬 I am also a reserach assistant affiliated with the [Bayesian Learning & Signal Processing (BL&SP) Group](https://blsp-group.github.io) of CUHK-Shenzhen
+- 🔬 I am also a research assistant affiliated with the [Bayesian Learning & Signal Processing (BL&SP) Group](https://blsp-group.github.io) of CUHK-Shenzhen
 
-- 💬 My current research interests include fBayesian learning, distributed optimization, and privacy-preserving machine learning
+- 💬 My current research interests include Bayesian learning, distributed optimization, and privacy-preserving machine learning
 
 - 📝 I actively share my insights on topics related to data science, machine learning, and artificial intelligence through my writing on [Medium](https://richardcsuwandi.medium.com)
 
 - 📫 How to reach me: richardsuwandi@link.cuhk.edu.cn
-
-- ⚡ Fun fact: I like to count from 0, not 1
 
 🔗 **Connect With Me:**
 
