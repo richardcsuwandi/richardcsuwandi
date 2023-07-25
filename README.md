@@ -5,7 +5,7 @@
 
 - 🔬 I am also a research assistant affiliated with the [Bayesian Learning for Signal Processing (BLSP) Group](https://blsp-group.github.io) of CUHK-Shenzhen
 
-- 💬 My current research interests include Bayesian learning, distributed optimization, and privacy-preserving machine learning
+- 💬 My current research interests include Bayesian learning, distributed optimization, and trustworthy machine learning
 
 - 📝 I actively share my insights on topics related to data science, machine learning, and artificial intelligence through my writing on [Medium](https://richardcsuwandi.medium.com)
 
