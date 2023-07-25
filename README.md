@@ -3,7 +3,7 @@
 
 - 📚 I am currently pursuing my PhD in Computer and Information Engineering at the [School of Science and Engineering, CUHK-Shenzhen](https://sse.cuhk.edu.cn/en)
 
-- 🔬 I am also a research assistant affiliated with the [Bayesian Learning & Signal Processing (BL&SP) Group](https://blsp-group.github.io) of CUHK-Shenzhen
+- 🔬 I am also a research assistant affiliated with the [Bayesian Learning for Signal Processing (BLSP) Group](https://blsp-group.github.io) of CUHK-Shenzhen
 
 - 💬 My current research interests include Bayesian learning, distributed optimization, and privacy-preserving machine learning
 
