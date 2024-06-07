@@ -1,3 +1,14 @@
+I am a PhD student at [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://cuhk.edu.cn/en/). Prior to my PhD, I obtained my BSc degree in Statistics from CUHK-Shenzhen.
+
+I am fortunate to be advised by [Prof. Feng Yin](https://sse.cuhk.edu.cn/en/faculty/yinfeng) and [Prof. Tsung-Hui Chang](https://sse.cuhk.edu.cn/en/faculty/tsunghuichang). My current research interests include:
+- **Probabilistic machine learning**, especially Gaussian processes
+- **Decision-making under uncertainty** with Bayesian optimization
+- **Generative AI**, including large language models and diffusion models
+
+If you are interested in collaborating or discussing research ideas, feel free to reach out via [email](mailto:richardsuwandi@link.cuhk.edu.cn).
+
+
+<!--
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 <h3 align="center">I'm Richard Cornelius Suwandi</h3>
 
@@ -19,7 +30,7 @@
 [<img align="left" alt="medium.com/@richardcsuwandi" width="22px" src="http://simpleicons.org/icons/medium.svg" />][Medium]
 [<img align="left" alt="richardcsuwandi@gmail.com" width="22px" src="http://simpleicons.org/icons/microsoftoutlook.svg" />][Email]
 <!-- [<img align="left" alt="https://www.kaggle.com/richardcsuwandi" width="22px" src="http://simpleicons.org/icons/kaggle.svg" />][Kaggle] -->
-
+<!--
 <br />
 <br />
 
@@ -47,20 +58,13 @@
 ![](https://img.shields.io/badge/Overleaf-informational?style=flat&logo=overleaf&logoColor=white&color=47A141)
 ![](https://img.shields.io/badge/Kaggle-informational?style=flat&logo=kaggle&logoColor=white&color=20BEFF)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
+-->
 
-📕 **Latest Medium Articles**
-<!-- BLOG-POST-LIST:START -->
-- [Gaussian Process Regression using GPyTorch](https://towardsdatascience.com/gaussian-process-regression-using-gpytorch-2c174286f9cc?source=rss-727a207951a0------2)
-- [Analyzing My Own LinkedIn Data](https://towardsdatascience.com/analyzing-my-own-linkedin-data-24df63a9dc28?source=rss-727a207951a0------2)
-- [Why is AI So Smart and Yet So Dumb?](https://towardsdatascience.com/why-ai-is-so-smart-and-yet-so-dumb-c156cc87fafa?source=rss-727a207951a0------2)
-- [6 Magic Commands That Every Data Wizard Should Know](https://towardsdatascience.com/6-magic-commands-that-every-data-wizard-should-know-87eaf9e2567c?source=rss-727a207951a0------2)
-- [Data is the New Lego](https://towardsdatascience.com/data-is-the-new-lego-bc634cc8a795?source=rss-727a207951a0------2)
-<!-- BLOG-POST-LIST:END -->
-➡️ [More articles...](https://medium.com/@richardcsuwandi)
-
+<!--
 [Website]: https://richardcsuwandi.github.io
 [Twitter]: https://twitter.com/richardcsuwandi
 [LinkedIn]: https://linkedin.com/in/richardcsuwandi
 [Medium]: https://medium.com/@richardcsuwandi
 [Email]: mailto:richardsuwandi@link.cuhk.edu.cn
 [Kaggle]: https://www.kaggle.com/richardcsuwandi
+-->
