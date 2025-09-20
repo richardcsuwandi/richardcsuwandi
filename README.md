@@ -1,6 +1,8 @@
+<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
+
 I am a PhD student at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en), advised by [Prof. Feng Yin](https://sse.cuhk.edu.cn/en/faculty/yinfeng) and [Prof. Tsung-Hui Chang](https://sse.cuhk.edu.cn/en/faculty/tsunghuichang). Prior to my PhD, I obtained my BSc degree in Statistics from CUHK-Shenzhen.
 
-I am interested in building [open-ended]() intelligent systems capable of continuous learning, efficient knowledge acquisition from limited data, and generalization across an evolving range of tasks. To this end, my research explores:
+I am interested in building *open-ended* intelligent systems capable of continuous learning, efficient knowledge acquisition from limited data, and generalization across an evolving range of tasks. To this end, my research explores:
 
 - **Bayesian optimization** for sample-efficient, adaptive exploration in open-ended search spaces
 - **Gaussian processes** to enable principled decision-making and uncertainty quantification
