@@ -1,8 +1,12 @@
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 
-I am a PhD student at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en), advised by [Prof. Feng Yin](https://sse.cuhk.edu.cn/en/faculty/yinfeng) and [Prof. Tsung-Hui Chang](https://sse.cuhk.edu.cn/en/faculty/tsunghuichang). Prior to my PhD, I obtained my BSc degree in Statistics from CUHK-Shenzhen.
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/richardcsuwandi/richardcsuwandi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/richardcsuwandi/richardcsuwandi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/richardcsuwandi/richardcsuwandi/output/pacman-contribution-graph.svg">
+</picture>
 
-I am a PhD student majoring in Computer and Information Engineering at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), advised by Prof. Feng Yin and Prof. Tsung-Hui Chang. Prior to my PhD, I obtained a BSc in Statistics from CUHK-Shenzhen. 
+I am a PhD student at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en), advised by [Prof. Feng Yin](https://sai.cuhk.edu.cn/en/teacher/97) and [Prof. Tsung-Hui Chang](https://sai.cuhk.edu.cn/en/teacher/83). Prior to my PhD, I obtained my BSc degree in Statistics from CUHK-Shenzhen.
 
 My current research explores:
 - **Bayesian optimization** for sample-efficient black-box optimization and sequential decision-making
