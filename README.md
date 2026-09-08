@@ -7,7 +7,7 @@
 </picture>
 
 
-I am a fully-funded **PhD student** at [School of Artificial Intelligence, CUHK-Shenzhen](https://sai.cuhk.edu.cn/en/), advised by [Prof. Feng Yin](https://sai.cuhk.edu.cn/en/teacher/97) and [Prof. Tsung-Hui Chang](https://sai.cuhk.edu.cn/en/teacher/83). Prior to my PhD, I obtained my BSc degree in Statistics (with first-class honors) from CUHK-Shenzhen.
+I am a fully-funded **PhD candidate** at [School of Artificial Intelligence, CUHK-Shenzhen](https://sai.cuhk.edu.cn/en/), advised by [Prof. Feng Yin](https://sai.cuhk.edu.cn/en/teacher/97) and [Prof. Tsung-Hui Chang](https://sai.cuhk.edu.cn/en/teacher/83). Prior to my PhD, I obtained my BSc degree in Statistics (with first-class honors) from CUHK-Shenzhen.
 
 I am interested in building **adaptive intelligence for  sequential decision-making and optimization**: AI systems that learn probabilistic models of unknown environments, choose informative experiments under limited budgets, and revise their hypotheses from feedback. The long-term goal is to build closed-loop AI systems that learn what to model, what to test, and what to discover. See my [Research](https://richardcsuwandi.github.io/research/) page for details.
 
